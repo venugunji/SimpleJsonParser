@@ -1,0 +1,21 @@
+{
+  "car_company_lookup_map": {
+    "T": "TOYOTA",
+    "H": "HONDA"
+  },
+  "camry":{
+    "car_company": "T",
+    "car_type": "sedan",
+    "price": 30000
+  },
+  "highlander":{
+    "car_company": "T",
+    "car_type": "SUV",
+    "price": 40000
+  },
+  "accord":{
+    "car_company": "H",
+    "car_type": "sedan",
+    "price": 40000
+  }
+}
